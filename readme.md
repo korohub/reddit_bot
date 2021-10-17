@@ -71,7 +71,7 @@ Dockerfile
 
 ## Versions
 
-_exemple :_
+
 **Dernière version stable :** 1.0
 **Dernière version :** 1.0
 
